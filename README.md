@@ -1,2 +1,1 @@
-# Getting-started
-Brief introduction into preferred practices 
+This repository stores best practices to get started in its [Wiki](../../wiki).
